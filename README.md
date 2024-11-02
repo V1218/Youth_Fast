@@ -1,7 +1,4 @@
-# Youth_Fast
 # My Live Web Application
-
-![Project Screenshot](https://www.linkedin.com/posts/vij0707_webdevelopment-liveproject-html-activity-7258406248591597568-11Hx?utm_source=share&utm_medium=member_desktop)  <!-- Add a screenshot of your project if available -->
 
 ## Overview
 
